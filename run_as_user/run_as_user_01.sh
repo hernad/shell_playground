@@ -1,7 +1,8 @@
 #!/bin/bash
 
 cat > /tmp/su_run.sh <<EOF
-source /opt/zimbra/.bashrc
+HOME=/opt/zimbra
+source ~/.bashrc
 echo $HOME
 whoami
 echo \$PATH
