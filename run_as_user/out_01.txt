@@ -1,0 +1,4 @@
+root@zimbra:/shell_playground/run_as_user# bash run_as_user_01.sh 
+/opt/zimbra
+zimbra
+/opt/zimbra/bin:/opt/zimbra/postfix/sbin:/opt/zimbra/openldap/bin:/opt/zimbra/snmp/bin:/opt/zimbra/rsync/bin:/opt/zimbra/bdb/bin:/opt/zimbra/openssl/bin:/opt/zimbra/java/bin:/usr/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
