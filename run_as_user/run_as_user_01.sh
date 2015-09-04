@@ -3,7 +3,7 @@
 cat > /tmp/su_run.sh <<EOF
 HOME=/opt/zimbra
 source ~/.bashrc
-echo $HOME
+echo \$HOME
 whoami
 echo \$PATH
 EOF
